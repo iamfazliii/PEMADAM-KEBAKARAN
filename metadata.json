@@ -1,0 +1,6 @@
+{
+  "name": "Eksplorasi 3D: Alat Pemadam Api",
+  "description": "Simulasi 3D interaktif penerokaan jenis alat pemadam api, prinsip pemadaman, situasi kebakaran maya, dan kuiz Sains Tingkatan 4 KSSM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
